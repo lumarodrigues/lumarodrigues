@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python/Django for web developing!
+- 🌱 I’m currently learning Python/Django for web development!
