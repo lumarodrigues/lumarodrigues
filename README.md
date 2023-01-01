@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Python/Django for web development!
+- 🔭 I’m currently working with Python/Django for web development!
+- 📫 How to reach me: rdsluma@gmail.com
