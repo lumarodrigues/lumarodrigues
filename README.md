@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working with Python/Django for web development!
+- 🔭 I’m currently working with Python/Django for web development.
+- 🌱 I’m currently learning about APIs, automated testing and more about the internet.
+- 💬 Ask me about anything!
 - 📫 How to reach me: rdsluma@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have a cat named Kiwi 🥝
