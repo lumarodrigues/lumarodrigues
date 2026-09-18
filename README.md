@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: rdsluma@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a cat named Kiwi 🥝
+- ⚡ Fun fact: I have a cat named Kiwi 🥝 and other one named Poppy! 🌸
